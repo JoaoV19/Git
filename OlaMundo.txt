@@ -1,6 +1,8 @@
 Olá Mundao
 Eu sou o Joao
 Victor Ribeiro
-Vamos aprender Git
+Vamos aprender Git?
+Sim
+http:://git-scm.com
 
 
